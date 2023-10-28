@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C60EDBD12AECC13F00C48C02 /* StatisticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBCB2AECC13E00C48C02 /* StatisticView.swift */; };
+		C60EDBD22AECC13F00C48C02 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBCC2AECC13E00C48C02 /* SearchBarView.swift */; };
+		C60EDBD32AECC13F00C48C02 /* XmarkButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBCD2AECC13E00C48C02 /* XmarkButton.swift */; };
+		C60EDBD42AECC13F00C48C02 /* DecimalTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBCE2AECC13E00C48C02 /* DecimalTextField.swift */; };
+		C60EDBD52AECC13F00C48C02 /* NavigationLazyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBCF2AECC13E00C48C02 /* NavigationLazyView.swift */; };
+		C60EDBD62AECC13F00C48C02 /* LegacyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBD02AECC13E00C48C02 /* LegacyTextField.swift */; };
+		C60EDBDE2AECC15A00C48C02 /* CoinModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBD82AECC15A00C48C02 /* CoinModel.swift */; };
+		C60EDBDF2AECC15A00C48C02 /* MarketDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBD92AECC15A00C48C02 /* MarketDataModel.swift */; };
+		C60EDBE02AECC15A00C48C02 /* PortfolioContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBDA2AECC15A00C48C02 /* PortfolioContainer.xcdatamodeld */; };
+		C60EDBE12AECC15A00C48C02 /* StatictisModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBDC2AECC15A00C48C02 /* StatictisModel.swift */; };
+		C60EDBE22AECC15A00C48C02 /* CoinDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60EDBDD2AECC15A00C48C02 /* CoinDetailModel.swift */; };
 		C6CB2BB32AE6690300D398F5 /* GitTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6CB2BB22AE6690300D398F5 /* GitTestApp.swift */; };
 		C6CB2BB72AE6690600D398F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6CB2BB62AE6690600D398F5 /* Assets.xcassets */; };
 		C6CB2BBA2AE6690600D398F5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6CB2BB92AE6690600D398F5 /* Preview Assets.xcassets */; };
@@ -14,6 +25,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C60EDBCB2AECC13E00C48C02 /* StatisticView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatisticView.swift; sourceTree = "<group>"; };
+		C60EDBCC2AECC13E00C48C02 /* SearchBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		C60EDBCD2AECC13E00C48C02 /* XmarkButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XmarkButton.swift; sourceTree = "<group>"; };
+		C60EDBCE2AECC13E00C48C02 /* DecimalTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DecimalTextField.swift; sourceTree = "<group>"; };
+		C60EDBCF2AECC13E00C48C02 /* NavigationLazyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationLazyView.swift; sourceTree = "<group>"; };
+		C60EDBD02AECC13E00C48C02 /* LegacyTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LegacyTextField.swift; sourceTree = "<group>"; };
+		C60EDBD82AECC15A00C48C02 /* CoinModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoinModel.swift; sourceTree = "<group>"; };
+		C60EDBD92AECC15A00C48C02 /* MarketDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarketDataModel.swift; sourceTree = "<group>"; };
+		C60EDBDB2AECC15A00C48C02 /* PortfolioContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PortfolioContainer.xcdatamodel; sourceTree = "<group>"; };
+		C60EDBDC2AECC15A00C48C02 /* StatictisModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatictisModel.swift; sourceTree = "<group>"; };
+		C60EDBDD2AECC15A00C48C02 /* CoinDetailModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoinDetailModel.swift; sourceTree = "<group>"; };
 		C6CB2BAF2AE6690300D398F5 /* GitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6CB2BB22AE6690300D398F5 /* GitTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestApp.swift; sourceTree = "<group>"; };
 		C6CB2BB62AE6690600D398F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -32,6 +54,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C60EDBC92AECC13E00C48C02 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				C60EDBCA2AECC13E00C48C02 /* Components */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		C60EDBCA2AECC13E00C48C02 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				C60EDBCB2AECC13E00C48C02 /* StatisticView.swift */,
+				C60EDBCC2AECC13E00C48C02 /* SearchBarView.swift */,
+				C60EDBCD2AECC13E00C48C02 /* XmarkButton.swift */,
+				C60EDBCE2AECC13E00C48C02 /* DecimalTextField.swift */,
+				C60EDBCF2AECC13E00C48C02 /* NavigationLazyView.swift */,
+				C60EDBD02AECC13E00C48C02 /* LegacyTextField.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		C60EDBD72AECC15A00C48C02 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C60EDBD82AECC15A00C48C02 /* CoinModel.swift */,
+				C60EDBD92AECC15A00C48C02 /* MarketDataModel.swift */,
+				C60EDBDC2AECC15A00C48C02 /* StatictisModel.swift */,
+				C60EDBDD2AECC15A00C48C02 /* CoinDetailModel.swift */,
+				C60EDBDA2AECC15A00C48C02 /* PortfolioContainer.xcdatamodeld */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		C6CB2BA62AE6690300D398F5 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +106,8 @@
 		C6CB2BB12AE6690300D398F5 /* GitTest */ = {
 			isa = PBXGroup;
 			children = (
+				C60EDBD72AECC15A00C48C02 /* Models */,
+				C60EDBC92AECC13E00C48C02 /* Core */,
 				C6CB2BB22AE6690300D398F5 /* GitTestApp.swift */,
 				C6DA912B2AE8C5DD00C27500 /* View.swift */,
 				C6CB2BB62AE6690600D398F5 /* Assets.xcassets */,
@@ -137,8 +194,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C60EDBD32AECC13F00C48C02 /* XmarkButton.swift in Sources */,
+				C60EDBD42AECC13F00C48C02 /* DecimalTextField.swift in Sources */,
+				C60EDBD22AECC13F00C48C02 /* SearchBarView.swift in Sources */,
+				C60EDBDF2AECC15A00C48C02 /* MarketDataModel.swift in Sources */,
+				C60EDBE22AECC15A00C48C02 /* CoinDetailModel.swift in Sources */,
+				C60EDBE12AECC15A00C48C02 /* StatictisModel.swift in Sources */,
+				C60EDBD52AECC13F00C48C02 /* NavigationLazyView.swift in Sources */,
 				C6CB2BB32AE6690300D398F5 /* GitTestApp.swift in Sources */,
+				C60EDBD12AECC13F00C48C02 /* StatisticView.swift in Sources */,
+				C60EDBD62AECC13F00C48C02 /* LegacyTextField.swift in Sources */,
+				C60EDBDE2AECC15A00C48C02 /* CoinModel.swift in Sources */,
 				C6DA912C2AE8C5DD00C27500 /* View.swift in Sources */,
+				C60EDBE02AECC15A00C48C02 /* PortfolioContainer.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,6 +412,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		C60EDBDA2AECC15A00C48C02 /* PortfolioContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				C60EDBDB2AECC15A00C48C02 /* PortfolioContainer.xcdatamodel */,
+			);
+			currentVersion = C60EDBDB2AECC15A00C48C02 /* PortfolioContainer.xcdatamodel */;
+			path = PortfolioContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = C6CB2BA72AE6690300D398F5 /* Project object */;
 }
